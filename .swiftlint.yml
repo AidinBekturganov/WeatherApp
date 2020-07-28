@@ -1,0 +1,9 @@
+line_length:
+- 200 # warning
+- 300 # error
+disabled_rules:
+- trailing_whitespace
+- identifier_name
+- file_length
+- type_name
+- type_body_length
